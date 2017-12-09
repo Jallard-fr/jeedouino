@@ -66,7 +66,8 @@ $ArduinoESPanalogPins = array(	"not_used" 			=> "Non utilisée",
 								"low_relais" 		=> "oSortie mise à LOW (HIGH générée aussi) ",
 								"low_pulse" 		=> "oSortie mise à LOW avec temporisation (minuterie) ",
 								"high_pulse" 		=> "oSortie mise à HIGH avec temporisation (minuterie) ",
-								"analog_input" 		=> "Entrée Analogique"
+								"analog_input" 		=> "Entrée Analogique",
+			                                        "teleinfoRX"		=> "iEntrée téléinfo EDF ( pin RX )"
 							);
 $PifaceMODEpinsIN = array(
 							"not_used" 			=> "Non utilisée",
